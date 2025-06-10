@@ -7,6 +7,8 @@ I built it as a way to merge the Thread Network created by my Homepods with my O
 > [!NOTE]
 > This app is entirely local and your credentials are only displayed within the app.
 
+You can build this app using XCode. It's targetted at iOS 18.
+
 Upon launch, it will display this screen:
 
 ![image](https://github.com/user-attachments/assets/57ede36b-99d3-4009-a604-0e307165a38e)
