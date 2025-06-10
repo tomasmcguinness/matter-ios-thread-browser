@@ -1,4 +1,4 @@
-#matter-ios-thread-browser
+# matter-ios-thread-browser
 
 This is a basic iOS app that will display the Operational Dataset for your preferred Thread Network.
 
